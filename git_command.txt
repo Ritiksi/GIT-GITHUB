@@ -1,0 +1,53 @@
+ 1  git status
+    2  ls
+    3  ls -l
+    4  rm testing.py
+    5  git init
+    6  git status
+    7  ls
+    8  ls
+    9  git status
+   10  git add testing.py
+   11  git commit -m "add file"
+   12  git status
+   13  git branch
+   14  rm testing.py
+   15  ls
+   16  git restore testing.py
+   17  ls
+   18  rm testing.py
+   19  ls
+   20  git restore testing.py
+   21  git commit -m "Delete testing.py"
+   22  git add testing.py
+   23  git commit -m "Delete testing.py"
+   24  git add .
+   25  git commit -m "Delete testing.py"
+   26  git commit -m "file delete kar di"
+   27  rm testing.py
+   28  git add .
+   29  git commit -m "Deleted testing.py permanently"
+   30  claer
+   31  clear
+   32  git restore testing.py
+   33  clear
+   34  history
+   35  git log --oneline
+   36  gir add git_commands
+   37  git add git_commands
+   38  git commit -m "add git_commands"
+   39  git status
+   40  clear
+   41  git add git_commands.txt
+   42  git commit -m "add file"
+   43  git status
+   44  git add .
+   45  git commit -m "files update kar di"
+   46  git staus
+   47  git status
+   48  clear
+   49  rm git_commands.txt
+   50  git add .
+   51  git commmit -m "Delete git_commmands.txt
+   52  git commit -m "Delete git_commands.txt"
+   53  history
