@@ -1,4 +1,14 @@
+"""
+This module performs simple calculator operations.
+It asks user for input and prints the result.
+"""
+
+
 def simple_calculator():
+    """
+    Take user input for two numbers and an operator,
+    then print the calculated result.
+    """
     print("\n--- Welcome to Ritik's Calculator ---")
 
     try:
@@ -21,5 +31,6 @@ def simple_calculator():
         print("Error: Number sahi se daalo bhai!")
 
 
-# Run the function (Upar 2 lines ka gap zaroori hai)
-simple_calculator()
+# Run the function
+if __name__ == "__main__":
+    simple_calculator()
